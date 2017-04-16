@@ -1,8 +1,5 @@
-Title         : Ray Tracing Rendering
+#### Ray Tracing Rendering
 Author        : Bingyang Liu
-Logo          : True
-
-[TITLE]
 
 
 This the ray tracing rendering on real objects.
